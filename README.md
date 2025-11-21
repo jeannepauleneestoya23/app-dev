@@ -2,16 +2,16 @@ Pirates of the Caribbean# app-dev
 My first repository
 Pirates of the Caribbean – README
 
-Welcome aboard, matey! This README showcases all the Markdown elements you provided, fully themed around Pirates of the Caribbean. Use it directly in your GitHub repo or customize it as needed.
+Welcome aboard, matey! 
 
-⚓ Introduction
+Introduction
 
 Pirates of the Caribbean is an epic high-seas adventure franchise following the wild escapades of Captain Jack Sparrow, battling cursed pirates, ancient legends, and supernatural foes.
 
 “The problem is not the problem. The problem is your attitude about the problem.”
 — Captain Jack Sparrow
 
-🗡️ Basic Markdown Elements (Pirate Edition)
+
 ## Heading Levels
 The Black Pearl
 Captain Jack Sparrow
@@ -56,7 +56,7 @@ Visit the Pirate Archive
 
 Image (placeholder)
 
-🏴‍☠️ Extended Markdown Elements (Pirate Edition)
+ 
 Table — Pirate Items
 Item	Description
 Compass	Points to what you want most
